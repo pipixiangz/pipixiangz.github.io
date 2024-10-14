@@ -178,8 +178,8 @@ skills:
 
         
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#ffc0cb'
+    color_border: '#e91e63'
     items:
       - name: 跑步
         description: ''
@@ -196,7 +196,7 @@ skills:
       - name: 健身
         description: ''
         percent: 60
-        icon: barbell
+        icon: icon:"custom/dumbbell-solid"
       - name: 游泳
         description: ''
         percent: 80
@@ -261,7 +261,7 @@ awards:
 
   - title: 皮皮码来判判
     url: https://github.com/pipixiangz/ppxoj-backend-microservice
-    date: '2027-03-01'
+    date: '2024-03-01'
     awarder: 全栈开发
     icon: gavel
     summary: |
