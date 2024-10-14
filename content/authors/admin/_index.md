@@ -196,11 +196,11 @@ skills:
       - name: 健身
         description: ''
         percent: 60
-        icon: icon:"custom/dumbbell-solid"
+        icon: "custom/dumbbell-solid"
       - name: 游泳
         description: ''
         percent: 80
-        icon: person-simple-swim
+        icon: "custom/person-swimming-solid"
       - name: 滑雪
         description: ''
         percent: 90
