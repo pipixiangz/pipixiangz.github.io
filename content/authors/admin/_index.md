@@ -11,7 +11,7 @@ last_name: 赵
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ role: 新加坡国立大学(NUS)硕士研究生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 应届毕业生
+  - name: 后端开发/软件开发/算法工程师
     url: https://github.com/pipixiangz
 
 # Social network links
@@ -29,7 +29,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'xiang.zhao@u.nus.edu'
-    label: 给我发邮件
+    label: Email
   - icon: brands/weixin
     label: pipixiangz
   - icon: brands/github
@@ -88,7 +88,7 @@ work:
   - position: 软件开发工程师（实习）
     company_name: Emerson 艾默生
     company_url: 'https://www.emerson.com/en-sg'
-    company_logo: ''
+    company_logo: 'https://www.emerson.cn/resource/blob/emerson-logo-data-264808.png'
     date_start: 2024-03-04
     date_end: '2024-08-02'
     summary: |2-
@@ -254,7 +254,7 @@ awards:
     url: https://ppxdada.online
     date: '2024-06-01'
     awarder: 全栈开发
-    icon: ai-svgrepo-com
+    icon: comment-dots-regular
     summary: |
       基于 Spring Boot + Redis + ChatGLM + RxJava + SSE（+ Vue3）的 AI 答题应用平台。用户可基于 AI 快速生成题目并制作应用，经管理员审核后，可在线答题并基于多种评分算法或AI得到总结；管理员可以集中管理整站内容，并进行统计分析。
       - AI题目生成优化：针对AI题目生成速度影响用户体验的问题，系统封装了ChatGLM大语言模型服务，并采用RxJava结合SSE优化了题目推送流程，显著减少了用户获取题目的延迟，提升了60%的响应速度。
