@@ -106,7 +106,7 @@ work:
       - SQL慢查询优化： 针对滴滴数据线上平台的每日数据功能慢查询问题，耗时超过10分钟，定位到SQL执行出现索引回表和全表扫描问题。通过重建索引并优化查询语句结构，优化后查询效率提高30%。
   - position: 测试开发（实习）
     company_name: 恒生电子
-    company_url: 'https://www.hundsun.com/
+    company_url: 'https://www.hundsun.com/'
     company_logo: ''
     date_start: 2022-06-06
     date_end: 2023-08-26
