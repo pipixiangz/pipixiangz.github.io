@@ -53,9 +53,6 @@ education:
       - 智能推理系统
       - 模式识别系统
       - 自动驾驶机器人系统
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: 计算机科学与技术（Computer Science）
     institution: 北京交通大学（Beijing Jiaotong University）
     date_start: 2021-09-01
@@ -260,6 +257,9 @@ awards:
       - AI题目生成优化：针对AI题目生成速度影响用户体验的问题，系统封装了ChatGLM大语言模型服务，并采用RxJava结合SSE优化了题目推送流程，显著减少了用户获取题目的延迟，提升了60%的响应速度。
       - 评分机制多样化：为了提供灵活的评分机制以适应不同题目类型，采用策略模式设计评分模块，增强系统的可扩展性。
       - AI评分性能优化：针对AI评分出现性能瓶颈的问题，使用Caffeine缓存对AI评分结果进行缓存，减少评分响应时间减少6~10ms。同时通过部署Redisson分布式锁，有效预防了缓存击穿现象。
+    button:
+      text: '皮皮翔AI答答_GitHub仓库'
+      url: 'https://ppxdada.online'
 
 
   - title: 皮皮码来判判
