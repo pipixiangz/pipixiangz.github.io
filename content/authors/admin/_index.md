@@ -41,7 +41,7 @@ profiles:
 
 education:
   - area: 人工智能系统（Artificial Intelligence Systems）
-    institution: 新加坡国立大学（NUS）
+    institution: 新加坡国立大学（National University of Singapore）
     date_start: 2023-08-21
     date_end: 2024-10-31
     summary: |
@@ -56,7 +56,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: 计算机科学与技术（Computer Science）
-    institution: 北京交通大学（BJTU）
+    institution: 北京交通大学（Beijing Jiaotong University）
     date_start: 2021-09-01
     date_end: 2023-06-15
     summary: |
@@ -70,7 +70,7 @@ education:
       - 数据库系统
       - 虚拟化与云计算
   - area: 信息管理与信息系统（Manage Information Systems）
-    institution: 北京交通大学（BJTU）
+    institution: 北京交通大学（Beijing Jiaotong University）
     date_start: 2017-09-01
     date_end: 2021-06-15
     summary: |
@@ -90,7 +90,6 @@ work:
     date_end: '2024-08-02'
     summary: |2-
       部门：Emerson Asia Pacific - Emerson Automation Solutions (Singapore) 
-      工作内容：
       - AIChatbot架构优化：为了提高Emerson网站客户服务的效率和质量，减少对人工客服的依赖，参与AIChatbot项目的开发，通过集成Microsoft Azure OpenAI API优化了聊天机器人的架构。实现系统查询准确率提升50%，推动客户服务自动化的实现。
       - 移动应用架构开发：从零开始开发面向客户的移动应用，使用uni-app(Vue)完成前端界面，Spring Boot + MySQL构建后端服务，并通过集成大语言模型以优化产品查询功能，实现投诉建议、技术指南和产品信息的一站式服务，为用户提供更加便捷和个性化的体验。
   
@@ -102,7 +101,6 @@ work:
     date_end: 2023-04-05
     summary: |
       部门：两轮车事业部
-      工作职责：
       - 线上问题排查处理： 平台在监控仓库和充电点位性能时，发现指标异常波动。根据数据监控日志和历史数据趋势对问题进行定位，并使用基于时间序列分析的异常检测算法进行分析优化，实现了关键性能指标（如响应时间和服务可用性） 趋于稳定。
       - 充电点位选取规划： 为了利用数据分析优化资源分配和业务决策，构建了交互式数据看板，开发了基于机器学习模型的选址优化算法，显著提升了充电网络的地理布局效率和覆盖质量。
       - SQL慢查询优化： 针对滴滴数据线上平台的每日数据功能慢查询问题，耗时超过10分钟，定位到SQL执行出现索引回表和全表扫描问题。通过重建索引并优化查询语句结构，优化后查询效率提高30%。
