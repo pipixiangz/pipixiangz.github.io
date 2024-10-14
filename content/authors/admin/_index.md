@@ -46,6 +46,7 @@ education:
     date_end: 2024-10-31
     summary: |
       GPA: 4.0 / 5.0
+      
       主修课程：
       - 智能机器人系统
       - 智能传感系统
@@ -60,7 +61,8 @@ education:
     date_start: 2021-09-01
     date_end: 2023-06-15
     summary: |
-      GPA: 3.3/4.0
+      GPA: 3.3 / 4.0
+      
       主修课程:
       - Java, C++, Python
       - 数据结构与算法
@@ -74,7 +76,8 @@ education:
     date_start: 2017-09-01
     date_end: 2021-06-15
     summary: |
-      GPA: 3.5/4.0   
+      GPA: 3.5 / 4.0   
+      
       主修课程:
       - 数据结构与算法
       - 商务应用开发

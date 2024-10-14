@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: cover-image.jpg
+        filename: cover.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -30,7 +30,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: '2006-01-01'
       # Education or Experience section first?
       is_education_first: true
   - block: skills
