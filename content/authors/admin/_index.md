@@ -184,15 +184,15 @@ skills:
       - name: 跑步
         description: ''
         percent: 70
-        icon: person-simple-walk
-      - name: 喵
+        icon: "custom/person-running-solid"
+      - name: 喵喵
         description: ''
         percent: 100
-        icon: cat
+        icon: "custom/cat-solid"
       - name: 摄影+剪辑
         description: ''
         percent: 80
-        icon: camera
+        icon: "custom/camera-solid"
       - name: 健身
         description: ''
         percent: 60
@@ -208,31 +208,31 @@ skills:
       - name: 滑板
         description: ''
         percent: 70
-        icon: :skateboard:
+        icon: "custom/person-snowboarding-solid"
       - name: 骑行
         description: ''
         percent: 70
-        icon: :heart:
+        icon: "custom/person-biking-solid"
       - name: 羽毛球
         description: ''
         percent: 85
-        icon: racquet
-      - name: 听歌/唱歌
+        icon: "custom/racquet"
+      - name: Music
         description: ''
-        percent: 85
-        icon: person-simple-bike
+        percent: 95
+        icon: "custom/music-solid"
       - name: 乒乓球
         description: ''
         percent: 90
-        icon: ping-pong
+        icon: "custom/table-tennis-paddle-ball-solid"
       - name: 旅行
         description: ''
         percent: 100
-        icon: airplane-tilt
+        icon: "custom/plane-departure-solid"
       - name: 干饭
         description: ''
         percent: 100
-        icon: :rice:
+        icon: "custom/burger-solid"
 
 languages:
   - name: English
