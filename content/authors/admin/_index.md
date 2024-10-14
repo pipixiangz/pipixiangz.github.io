@@ -288,9 +288,6 @@ awards:
 ---
 
 Dedicated student with a Master's degree in Artificial Intelligence Systems from NUS and dual Bachelor's degrees in Computer Science and Management Information Systems from Beijing Jiaotong University(BJTU). My diverse educational background, combined with technical skills in computer science, software development, and artificial intelligence, equips me to thrive in dynamic, technology-driven environments.
-- 👋 Hi, I’m pipixiangz
-- 🌱 I'm currently pursuing my Master's Degree at National University of Singapore(NUS)
-- 🤖 Majoring in Artificial Intelligence Systems(AIs)
-- 🧑🏻‍🎓 I had my dual Bachelor's Degree from Beijing Jiaotong University in Computer Science and MIS
-- 📫 How to reach me: xiang.zhao@u.nus.edu / WeChat: pipixiangz
+
+📫 How to reach me: xiang.zhao@u.nus.edu / WeChat: pipixiangz
 
