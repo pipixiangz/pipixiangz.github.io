@@ -43,7 +43,7 @@ education:
   - area: 人工智能系统（Artificial Intelligence Systems）
     institution: 新加坡国立大学（National University of Singapore）
     date_start: 2023-08-21
-    date_end: 2024-10-31
+    date_end: 2024-11-01
     summary: |
       GPA: 4.0 / 5.0
       
@@ -71,7 +71,7 @@ education:
       - 机器学习与深度学习
       - 数据库系统
       - 虚拟化与云计算
-  - area: 信息管理与信息系统（Manage Information Systems）
+  - area: 信息管理与信息系统（Management Information Systems）
     institution: 北京交通大学（Beijing Jiaotong University）
     date_start: 2017-09-01
     date_end: 2021-06-15
@@ -254,7 +254,7 @@ awards:
     url: https://ppxdada.online
     date: '2024-06-01'
     awarder: 全栈开发
-    icon: "custom/ai-svgrepo-com"
+    icon: ai-svgrepo-com
     summary: |
       基于 Spring Boot + Redis + ChatGLM + RxJava + SSE（+ Vue3）的 AI 答题应用平台。用户可基于 AI 快速生成题目并制作应用，经管理员审核后，可在线答题并基于多种评分算法或AI得到总结；管理员可以集中管理整站内容，并进行统计分析。
       - AI题目生成优化：针对AI题目生成速度影响用户体验的问题，系统封装了ChatGLM大语言模型服务，并采用RxJava结合SSE优化了题目推送流程，显著减少了用户获取题目的延迟，提升了60%的响应速度。
@@ -278,7 +278,7 @@ awards:
     url: https://github.com/pipixiangz/Hawkeye-ITSS
     date: '2024-05-20'
     awarder: 架构设计与模型微调
-    icon: "custom/Eagle-SVG"
+    icon: Eagle-SVG
     summary: |
       基于 YOLOv8 + BDD100K 数据集，设计并实现了一个骑行者安全智能视觉系统，利用计算机视觉算法和机器学习提升安全性。
       - 系统架构实现：YOLOv8模型与BoT-SORT算法结合，实现多目标检测+车道分割技术+可驾驶区域检测，多种框架合并为我们的HOLOH架构，有效减少了骑行盲点相关事故发生率。
