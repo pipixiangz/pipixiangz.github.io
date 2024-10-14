@@ -204,11 +204,11 @@ skills:
       - name: 滑雪
         description: ''
         percent: 90
-        icon: person-simple-ski
+        icon: "custom/person-skiing-solid"
       - name: 滑板
         description: ''
         percent: 70
-        icon: person-simple-skate
+        icon: 🛹
       - name: 骑行
         description: ''
         percent: 70
