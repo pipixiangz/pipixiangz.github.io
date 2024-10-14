@@ -266,7 +266,7 @@ awards:
     url: https://github.com/pipixiangz/ppxoj-backend-microservice
     date: '2024-03-01'
     awarder: 全栈开发
-    icon: "custom/square-check-regular"
+    icon: square-check-regular
     summary: |
       基于 Spring Boot + Spring Cloud 微服务 + Docker + MQ + Vue3 的在线判题系统。允许管理员创建和管理题目，用户可以搜索、编写并提交代码，在代码沙箱独立服务中根据测试用例对代码进行编译、运行和输出判断。
       - 判题机架构实现：为了提升判题机模块的可拓展性，定义代码沙箱的抽象调用接口和多种实现类，并通过静态工厂模式+ Spring 配置实现了对多种代码沙箱的切换，使用代理模式对代码沙箱接口进行能力增强。
