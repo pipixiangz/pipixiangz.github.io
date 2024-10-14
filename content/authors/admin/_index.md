@@ -104,7 +104,7 @@ work:
       - 线上问题排查处理： 平台在监控仓库和充电点位性能时，发现指标异常波动。根据数据监控日志和历史数据趋势对问题进行定位，并使用基于时间序列分析的异常检测算法进行分析优化，实现了关键性能指标（如响应时间和服务可用性） 趋于稳定。
       - 充电点位选取规划： 为了利用数据分析优化资源分配和业务决策，构建了交互式数据看板，开发了基于机器学习模型的选址优化算法，显著提升了充电网络的地理布局效率和覆盖质量。
       - SQL慢查询优化： 针对滴滴数据线上平台的每日数据功能慢查询问题，耗时超过10分钟，定位到SQL执行出现索引回表和全表扫描问题。通过重建索引并优化查询语句结构，优化后查询效率提高30%。
-  - position: 测试开发（实习）
+  - position: 测试开发工程师（实习）
     company_name: 恒生电子
     company_url: 'https://www.hundsun.com/'
     company_logo: ''
@@ -288,3 +288,9 @@ awards:
 ---
 
 Dedicated student with a Master's degree in Artificial Intelligence Systems from NUS and dual Bachelor's degrees in Computer Science and Management Information Systems from Beijing Jiaotong University(BJTU). My diverse educational background, combined with technical skills in computer science, software development, and artificial intelligence, equips me to thrive in dynamic, technology-driven environments.
+- 👋 Hi, I’m pipixiangz
+- 🌱 I'm currently pursuing my Master's Degree at National University of Singapore(NUS)
+- 🤖 Majoring in Artificial Intelligence Systems(AIs)
+- 🧑🏻‍🎓 I had my dual Bachelor's Degree from Beijing Jiaotong University in Computer Science and MIS
+- 📫 How to reach me: xiang.zhao@u.nus.edu / WeChat: pipixiangz
+

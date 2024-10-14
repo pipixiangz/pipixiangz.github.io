@@ -14,11 +14,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Software Development Engineer'
+    description: '赵翔'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '赵翔'
     plausible: ''
     fathom: ''
     pirsch: ''
@@ -40,11 +40,12 @@ header:
       text: "皮皮翔的个人主页"
       # Logo filename in `assets/media/` folder
       filename: "smile.svg"
+  show_search: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} PIPIXIANG. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
