@@ -208,11 +208,11 @@ skills:
       - name: 滑板
         description: ''
         percent: 70
-        icon: 🛹
+        icon: :skateboard:
       - name: 骑行
         description: ''
         percent: 70
-        icon: person-simple-bike
+        icon: :heart:
       - name: 羽毛球
         description: ''
         percent: 85
@@ -232,7 +232,7 @@ skills:
       - name: 干饭
         description: ''
         percent: 100
-        icon: cheers
+        icon: :rice:
 
 languages:
   - name: English
